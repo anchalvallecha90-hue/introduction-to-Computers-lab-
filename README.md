@@ -13,3 +13,12 @@ mainframe : used to process large amount of data
 supercomputer : used for complex calculation
 minicomputer : medium sized computer used by organiztions
 microcomputer : personal computer used by individuals
+## tools used 
+Git
+GitHub
+ Markdown
+ Visual Studio Code
+ ## project workflow 
+ '''text 
+ Create Repository → Create Branch → Make Changes
+→ Commit → Push → Pull Request → Review → Merge
