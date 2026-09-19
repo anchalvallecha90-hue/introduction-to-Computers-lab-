@@ -31,6 +31,27 @@ GitHub
   - [x] introduction
         [Github](https://github.com)
         ![computer](image-url)
+      -  [x] introduction to computer
+       - [x] types of computer
+       - [x] history of computer
+       - [x] markdown formatting
+       - [ ] future improvements
+             learn about computer on [wikipedia](https://en.wikipedia.org/wiki/Computer).
+             '''c
+             printf("hey , computer!");
+             For an image, you can add an appropriate computer image using GitHub's image-upload option.
+
+If you're working directly on GitHub, your commits are already on GitHub.
+
+Go to the repository's **Branches** section and make sure you can see:
+
+```text
+main
+anchal
+             
+        
+
+        
         
         
 
